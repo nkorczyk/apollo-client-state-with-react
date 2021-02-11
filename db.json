@@ -10,31 +10,31 @@
       "quantity": 100
     },
     {
-      "id": 2,
-      "name": "Widget B",
-      "description": "Medium, Blue Widget",
-      "color": "blue",
-      "size": "medium",
-      "price": 5,
-      "quantity": 50
-    },
-    {
-      "id": 3,
-      "name": "Widget C",
-      "description": "Large, Yellow Widget",
-      "color": "yellow",
-      "size": "large",
-      "price": 15,
-      "quantity": 75
-    },
-    {
       "id": 4,
       "name": "Widget D",
       "description": "Medium, Red Widget",
-      "color": "red",
-      "size": "medium",
+      "color": "32423423423432",
+      "size": "meghghg",
       "price": 20,
       "quantity": 20
+    },
+    {
+      "name": "fdgf",
+      "description": "gfgdf",
+      "color": "",
+      "size": "",
+      "price": 0,
+      "quantity": 0,
+      "id": 5
+    },
+    {
+      "name": "dffghf",
+      "description": "hfgh",
+      "color": "",
+      "size": "",
+      "price": 0,
+      "quantity": 0,
+      "id": 6
     }
   ]
 }
